@@ -1,0 +1,83 @@
+.one{
+    border: 1px solid white;
+    height: 550px;
+    width: 500px;
+    box-shadow: #00000012 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+    background-color: white;
+    margin-left: 300px;
+    margin-top: 30px;
+    font-weight: bold;
+    background-color: aquamarine;
+   
+}
+body{
+  background-image: url(./foot2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+
+
+.main{
+    margin-left: 100px;
+    padding: 10px;
+
+}
+.b1{
+  margin-left: 90px;
+  margin-top: 25px;
+ 
+
+}
+.b2{
+    margin-left: 60px;
+}
+#name{
+    width: 270px;
+    min-height: 60px;
+    border-radius: 30px;
+    text-align: center;
+    font-weight: bolder;
+   
+    color: black;
+   margin-right: 90px;
+   box-shadow: #00000012 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+}
+#email{
+    width: 270px;
+    min-height: 60px;
+    border-radius: 30px;
+    text-align: center;
+    font-weight: bolder;
+
+    margin-right: 100px;
+    box-shadow: #00000012 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+    
+    
+
+}
+#password{
+    width: 270px;
+    min-height: 60px;
+    border-radius: 30px;
+    text-align: center;
+    font-weight: bolder;
+    box-shadow: #00000012 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+
+
+}
+.b6{
+    width: 270px;
+    height: 60px;
+    border-radius: 30px;
+  
+font-weight: bold;
+box-shadow: #00000012 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+}
+.b9{
+    margin-left: 30px;
+}
+.b6 a{
+    text-decoration: none;
+    color: black;
+}
